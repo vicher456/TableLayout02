@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:contentDescription="@string/imageView"
+            android:src="@drawable/circulocuadradoimagen" />
+
+        <TextView
+            android:layout_width="65dp"
+            android:layout_height="20dp"
+            android:text="@string/textView1"
+            android:textColor="@color/gray"
+            android:layout_marginTop="25dp"/>
+
+        <TextView
+            android:layout_width="65dp"
+            android:layout_height="20dp"
+            android:text="@string/textView3"
+            android:textColor="@color/gray"
+            android:layout_marginTop="25dp"
+            android:layout_marginStart="130dp"/>
+
+        <TextView
+            android:layout_width="65dp"
+            android:layout_height="20dp"
+            android:text="@string/textView2"
+            android:textColor="@color/gray"
+            android:layout_marginTop="50dp"
+            android:layout_marginStart="-261dp"/>
+
+        <TextView
+            android:layout_width="65dp"
+            android:layout_height="20dp"
+            android:text="@string/textView4"
+            android:textColor="@color/gray"
+            android:layout_marginTop="50dp"
+            android:layout_marginStart="130dp"/>
+    </TableRow>
+</TableLayout>

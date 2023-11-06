@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LinearLayout02</string>
+    <string name="imageView">ImagenCirculoCuadrado</string>
+    <string name="textView1">Asunto</string>
+    <string name="textView2">Contenido</string>
+    <string name="textView3">Fecha</string>
+    <string name="textView4">Estrellita</string>
+</resources>
